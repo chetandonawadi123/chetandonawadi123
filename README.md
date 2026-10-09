@@ -1,37 +1,25 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:03301A,100:00FF41&height=210&section=header&text=root%40chetan%3A~%23&fontSize=58&fontColor=00FF41&fontAlignY=42&desc=%5B%20backend%20engineer%20%7C%20cloud%20%7C%20real-time%20systems%20%5D&descAlignY=64&descSize=18&descColor=C9D1D9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,55:312E81,100:22D3EE&height=110&section=header" width="100%" />
+
+<img src="https://raw.githubusercontent.com/chetandonawadi123/chetandonawadi123/main/assets/name-banner.svg" alt="Chetan Donawadi - Backend Engineer" width="100%" />
+
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=42&lines=%24+.%2Fbuild+--scalable+--backend;%24+kafka-topics+--stream+real-time+data;%24+aws+ec2+run-instances+--honeypot;%24+python+train.py+--model+svm+ann;%24+echo+%22open+to+backend+roles%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=42&lines=%24+.%2Fbuild+--scalable+--backend;%24+kafka-topics+--stream+real-time+data;%24+aws+ec2+run-instances+--honeypot;%24+python+train.py+--model+svm+ann;%24+echo+%22open+to+backend+roles%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/chetan-donawadi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" /></a>
-<a href="mailto:chetandonawadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" /></a>
-<img src="https://img.shields.io/badge/STATUS-OPEN__TO__WORK-00FF41?style=for-the-badge&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=chetandonawadi123&label=VIEWS&color=00FF41&labelColor=0D1117&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/chetan-donawadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chetandonawadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN__TO__WORK-0891B2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=chetandonawadi123&label=VIEWS&color=0891B2&labelColor=0D1117&style=for-the-badge" />
 
 </div>
 
 <br/>
-
-<!-- ============================ BANNER ============================ -->
-```text
-  ____ _   _ _____ _____  _    _   _
- / ___| | | | ____|_   _|/ \  | \ | |
-| |   | |_| |  _|   | | / _ \ |  \| |
-| |___|  _  | |___  | |/ ___ \| |\  |
- \____|_| |_|_____| |_/_/   \_\_| \_|
-
- ____   ___  _   _    ___        ___    ____ ___
-|  _ \ / _ \| \ | |  / \ \      / / \  |  _ \_ _|
-| | | | | | |  \| | / _ \ \ /\ / / _ \ | | | | |
-| |_| | |_| | |\  |/ ___ \ V  V / ___ \| |_| | |
-|____/ \___/|_| \_/_/   \_\_/\_/_/   \_\____/___|
-```
 
 ```bash
 chetan@dev:~$ neofetch --short
@@ -178,16 +166,16 @@ LiDAR scan ──▶ [scan matching] ──▶ [pose estimate] ──▶ [2D occ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chetandonawadi123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF41&icon_color=00E5FF&text_color=C9D1D9&bg_color=0A0E14" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetandonawadi123&layout=compact&hide_border=true&langs_count=8&title_color=00FF41&text_color=C9D1D9&bg_color=0A0E14" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chetandonawadi123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0A0E14" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetandonawadi123&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=C9D1D9&bg_color=0A0E14" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetandonawadi123&hide_border=true&background=0A0E14&ring=00FF41&fire=00E5FF&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chetandonawadi123&hide_border=true&background=0A0E14&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chetandonawadi123&bg_color=0A0E14&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chetandonawadi123&bg_color=0A0E14&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true" />
 
 <br/>
 
@@ -217,9 +205,9 @@ chetan@dev:~$ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chetan-donawadi"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" /></a>
-<a href="mailto:chetandonawadi@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/chetan-donawadi"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chetandonawadi@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:03301A,100:00FF41&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,55:312E81,100:22D3EE&height=100&section=footer" width="100%" />
