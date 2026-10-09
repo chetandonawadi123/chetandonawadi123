@@ -49,6 +49,15 @@ chetan@dev:~$ neofetch --short
 
 <br/>
 
+<!-- ============================ PROFILE MAP ============================ -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chetandonawadi123/chetandonawadi123/main/assets/profile-map.svg" alt="Profile map" width="100%" />
+
+</div>
+
+<br/>
+
 <!-- ============================ STACK ============================ -->
 ## `> cat stack.yml`
 
