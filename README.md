@@ -80,13 +80,11 @@ drwxr-xr-x  hector-slam-robot/        # ROS + LiDAR mapping       [Apr 2025]
 
 ### `[01] firmpot` — Intelligent IoT Honeypot
 
-```text
-firmware.bin ──▶ [QEMU booter] ──▶ [web scanner] ──▶ [RL learner]
-                                                          │
-                              [S3 telemetry] ◀── [EC2 honeypot instance]
-                                    │
-                              attack-log analysis ──▶ threat + vuln patterns
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chetandonawadi123/chetandonawadi123/main/assets/workflow-firmpot.svg" alt="FirmPot pipeline" width="100%" />
+
+</div>
 
 - Emulates **OpenWrt firmware with QEMU** to create realistic embedded-device environments
 - Modular Python pipeline: `booter` → `scanner` → `learner`
@@ -99,13 +97,11 @@ firmware.bin ──▶ [QEMU booter] ──▶ [web scanner] ──▶ [RL learn
 
 ### `[02] predictive-maintenance` — Medical Equipment Failure Prediction
 
-```text
-sensors ──▶ [Apache Kafka] ──▶ [stream processing] ──▶ [SVM / ANN]
-                                                          │   ▲
-                                              [MedGAN]────┘   │ synthetic data
-                                                          ▼
-                                      [live dashboard] + [failure alerts]
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chetandonawadi123/chetandonawadi123/main/assets/workflow-predictive.svg" alt="Predictive maintenance pipeline" width="100%" />
+
+</div>
 
 - Real-time Kafka pipeline for continuous medical sensor streaming
 - SVM + ANN predict failure, type, and severity at up to **90.67% accuracy**
@@ -118,11 +114,11 @@ sensors ──▶ [Apache Kafka] ──▶ [stream processing] ──▶ [SVM / 
 
 ### `[03] budget-expense-tracker` — Full-Stack Finance Manager
 
-```text
-browser ──▶ [Spring MVC Controller] ──▶ [Service Layer] ──▶ [DAO / JPA] ──▶ (MySQL)
-                                          │
-                       Strategy · Observer · Singleton · DAO patterns
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chetandonawadi123/chetandonawadi123/main/assets/workflow-budget.svg" alt="Budget tracker architecture" width="100%" />
+
+</div>
 
 - Spring Boot MVC app: expenses, budgets, goals, alerts, charts, **CSV export**
 - OOAD with **Strategy, Observer, Singleton, DAO** design patterns
@@ -134,11 +130,11 @@ browser ──▶ [Spring MVC Controller] ──▶ [Service Layer] ──▶ [D
 
 ### `[04] hector-slam-robot` — Autonomous Indoor Mapping
 
-```text
-LiDAR scan ──▶ [scan matching] ──▶ [pose estimate] ──▶ [2D occupancy grid]
-                                                            │
-                                            ROS + RViz ◀────┘  (save / reuse map)
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chetandonawadi123/chetandonawadi123/main/assets/workflow-slam.svg" alt="Hector SLAM pipeline" width="100%" />
+
+</div>
 
 - Real-time 2D mapping and localization using **Hector SLAM + LiDAR**
 - Works **without GPS, wheel odometry, or IMU**
